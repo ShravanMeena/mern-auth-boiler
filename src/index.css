@@ -1,0 +1,11 @@
+@import "antd/dist/antd.css";
+@import "react-toastify/dist/ReactToastify.css";
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+code {
+  font-family: "Poppins", sans-serif;
+}
